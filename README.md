@@ -1,4 +1,4 @@
-# FreeCodeCamp JavaScript Algorithms
+# JavaScript Algorithms and Data Structures 
 Five FreeCodeCamp Projects on JavaScript Algorithms and Data Structures Certification
 
 ## JavaScript Algorithms and Data Structures - FreeCodeCamp Certification
