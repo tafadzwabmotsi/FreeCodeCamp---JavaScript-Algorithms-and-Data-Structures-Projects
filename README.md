@@ -1,7 +1,7 @@
 # JavaScript Algorithms and Data Structures 
 Five FreeCodeCamp Projects on JavaScript Algorithms and Data Structures Certification
 
-## Modules cover the fundamental concepts of JavaScript and programming in general.
+## Modules cover the fundamental concepts of JavaScript and Programming in general.
 ### Topics covered:
  * Introduction to JavaScript
  * ES6
